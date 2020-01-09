@@ -1,0 +1,8 @@
+{
+  "type": "cat",
+  "animal": {
+  },
+  "ignoredObject": {
+    "someField": "someValue"
+  }
+}
